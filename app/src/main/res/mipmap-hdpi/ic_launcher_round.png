@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$/.." external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":app" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/src/main/res" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions-runtime/1.3.41/8d3d500e42bd74c17fa9586db8ca85c336979d02/kotlin-android-extensions-runtime-1.3.41.jar;C:/Users/mraya/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.41/a1f331124ba069a09e964ad2640c36f140f2c758/kotlin-stdlib-jdk7-1.3.41.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/e79f672c3b8c7a451fb4a9cbd036767c/jars/classes.jar;C:/Users/mraya/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.41/e24bd38de28a326cce8b1f0d61e809e9a92dad6a/kotlin-stdlib-1.3.41.jar;C:/Users/mraya/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.41/2ecf4aa059427d7186312fd1736afedf7972e7f7/kotlin-stdlib-common-1.3.41.jar;C:/Users/mraya/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/d4920d55f4ef8e105e85d545586f2c6e/jars/classes.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/1ef8acef0e4733f57fd2fbceb3b20556/jars/classes.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/a5dd9cc33c08748af28c9657e0b97a26/jars/classes.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/c8988e1bd07df0ad3a5ce31e6c1f6c29/jars/classes.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/e375596bd5b2daa9aa0b8d8dded4a364/jars/classes.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/c54a57634897a15e2a8678a6436447c1/jars/classes.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/eaac4bb3f901e6f05f79e1cc302a2de4/jars/classes.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/ae1d70bc85d0311c952ade902847b0ec/jars/classes.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/47fd24b1339492a0df573909478819ff/jars/classes.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/a45d95068a2b2e1dcf70f439fdcc7973/jars/classes.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/9688e8640c70fcf4f66594d6f9ba584b/jars/classes.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/484834d18eea3fb645e7d3b7f0fad949/jars/classes.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/3d8c6cbc37037781452201132d1d8aab/jars/classes.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/9bdd51b90223adf4aca03f8676b67761/jars/classes.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/a7f78b37cfe5b4122df841f5f0d60743/jars/classes.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/97c1506824fd5b332ee2462d80c09b74/jars/classes.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/cd684af81e083f5934f6832d8c9633bd/jars/classes.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/d1f57ba1462fef2bd18a5db4075a6ed0/jars/classes.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/4e9e1ab2b08b40f7b8ed9dffe05cbe35/jars/classes.jar;C:/Users/mraya/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.0.0/42858b26cafdaa69b6149f45dfc2894007bc2c7a/collection-1.0.0.jar;C:/Users/mraya/.gradle/caches/transforms-2/files-2.1/817edc262b21d96cf94f5db0886aa0ca/jars/class
